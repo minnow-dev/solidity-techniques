@@ -1,0 +1,30 @@
+{
+  "name": "solidity-techniques",
+  "version": "1.0.0",
+  "description": "solidity techniques explained",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx truffle compile",
+    "test": "./scripts/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leekt216/solidity-techniques.git"
+  },
+  "keywords": [
+    "solidity"
+  ],
+  "author": "leekt216@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/leekt216/solidity-techniques/issues"
+  },
+  "homepage": "https://github.com/leekt216/solidity-techniques#readme",
+  "dependencies": {
+    "ganache-cli": "^6.9.1",
+    "solidity-coverage": "^0.7.5",
+    "truffle": "^5.1.27",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "truffle-hdwallet-provider-klaytn": "^1.0.13-a"
+  }
+}
