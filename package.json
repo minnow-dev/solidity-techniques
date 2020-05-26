@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/leekt216/solidity-techniques#readme",
   "dependencies": {
+    "chai": "^4.2.0",
     "ganache-cli": "^6.9.1",
     "solidity-coverage": "^0.7.5",
     "truffle": "^5.1.27",

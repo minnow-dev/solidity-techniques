@@ -3,10 +3,11 @@
 ### Reducing deploy size
 
 1. proxy
-2. delegate proxy
-3. factory pattern
-4. minimal proxy
-5. immutables
+2. factory pattern
+3. minimal proxy
+4. proxy with immutables
+5. [EXPERIMENTAL] proxy with memory
+6. [HIGHLY EXPERIMENTAL] minimal proxy with memory
 
 ### Require statements
 
@@ -15,6 +16,8 @@
 3. how error message works
 
 ### Storage slot
+
+1. assigning storage slot
 
 ### Function types
 
